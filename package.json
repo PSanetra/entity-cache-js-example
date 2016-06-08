@@ -1,0 +1,28 @@
+{
+  "name": "entity-cache-js-example",
+  "version": "1.0.0",
+  "description": "Example application with entity-cache-js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psanetra/entity-cache-js-example.git"
+  },
+  "keywords": [
+    "entity",
+    "cache",
+    "JavaScript",
+    "example"
+  ],
+  "author": "PSanetra",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psanetra/entity-cache-js-example/issues"
+  },
+  "homepage": "https://github.com/psanetra/entity-cache-js-example#readme",
+  "dependencies": {
+    "entity-cache-js": "^0.1.5"
+  }
+}
